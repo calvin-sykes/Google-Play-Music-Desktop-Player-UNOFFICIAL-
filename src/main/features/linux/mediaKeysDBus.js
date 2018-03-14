@@ -29,17 +29,17 @@ try {
     {
       bus_name: 'org.gnome.SettingsDaemon.MediaKeys',
       path: '/org/gnome/SettingsDaemon/MediaKeys',
-      interface: 'org.gnome.SettingsDaemon.Mediakeys'
+      interface: 'org.gnome.SettingsDaemon.Mediakeys',
     },
     {
       bus_name: 'org.gnome.SettingsDaemon',
       path: '/org/gnome/SettingsDaemon/MediaKeys',
-      interface: 'org.gnome.SettingsDaemon.Mediakeys'
+      interface: 'org.gnome.SettingsDaemon.Mediakeys',
     },
     {
       bus_name: 'org.mate.SettingsDaemon',
       path: '/org/mate/SettingsDaemon/MediaKeys',
-      interface: 'org.mate.SettingsDaemon.Mediakeys'
+      interface: 'org.mate.SettingsDaemon.Mediakeys',
     },
   ];
 
