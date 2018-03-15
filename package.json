@@ -60,6 +60,7 @@
   "dependencies": {
     "archiver": "^1.0.1",
     "auto-launch": "^4.0.0",
+    "dbus-native": "^0.2.5",
     "discord-rich-presence": "^0.0.5",
     "electron": "1.7.9",
     "electron-chromecast": "^1.1.0",
